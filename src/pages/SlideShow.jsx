@@ -16,6 +16,8 @@ import Slide14 from "../slides/Slide14";
 import Slide15 from "../slides/Slide15";
 import Slide16 from "../slides/Slide16";
 import Slide17 from "../slides/Slide17";
+import TexteRepRomanai from "../slides/TexteRepRomanai";
+import TexteRepFrancezi from "../slides/TexteRepFrancezi";
 import backgroundvideo from "../assets/vid/0205.mp4"
 const components = [
   <Slide1 />,
@@ -25,6 +27,7 @@ const components = [
   <Slide5 />,
   <Slide6 />,
   <Slide7 />,
+  <TexteRepFrancezi/>,
   <Slide8 />,
   <Slide9 />,
   <Slide10 />,
@@ -32,6 +35,7 @@ const components = [
   <Slide12 />,
   <Slide13 />,
   <Slide14></Slide14>,
+  <TexteRepRomanai></TexteRepRomanai>,
   <Slide15></Slide15>,
   <Slide16></Slide16>,
   <Slide17></Slide17>

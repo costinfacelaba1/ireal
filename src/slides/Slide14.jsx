@@ -11,7 +11,7 @@ const Slide14 = () => {
         <div className="poet-card">
           <img src={macedonski} alt="Alexandru Macedonski" />
           <h3>Alexandru Macedonski</h3>
-          <p><strong>📖 Opera principală:</strong> Rondeluri</p>
+          <p><strong>📖 Opera principală:</strong> RondeluL rozelor ce mor</p>
           <p><strong>🎭 Tematici:</strong> Melancolia, natura efemeră a vieții, iubirea idealizată</p>
           <p><strong>✍️ Contribuție:</strong> Considerat părintele simbolismului românesc, Macedonski este primul poet român care a adus ideile simbolismului în literatura română. Este cunoscut pentru inovarea formelor poetice, fiind autorul unui număr mare de rondeluri.</p>
         </div>
