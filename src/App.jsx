@@ -12,9 +12,8 @@ const App = () => {
         {/* Routes */}
         <Routes>
           {/* Define the home route with the `element` prop */}
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<SlideShow />} />
           {/* Define the slideshow route with the `element` prop */}
-          <Route path="/slideshow" element={<SlideShow />} />
         </Routes>
       </div>
     </Router>
